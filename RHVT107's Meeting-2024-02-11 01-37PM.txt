@@ -1,0 +1,23 @@
+RHVT107's Meeting
+February 11, 2024
+(10:07 AM) Divya: Let me know once you have completed the survey
+(10:09 AM) Vellaichamy, Ashok Kumar: I am getting this message
+(10:09 AM) Vellaichamy, Ashok Kumar: Sorry, the survey submission time period has ended. Please notify Red Hat Training Support of the issue.
+(10:16 AM) Sadhishkumar S: Submited the Survey
+(10:16 AM) Kannan Ravi: submitted the survey
+(10:19 AM) Arul: Done
+(10:22 AM) Arul: can we start the class please?
+(12:19 PM) Divya: 10 mins break
+(12:19 PM) Divya: D0322 - coverth eprocess of install
+(12:19 PM) Divya: and upgrade
+(12:23 PM) Kannan Ravi: can you share student guide of DO322 ?
+(12:27 PM) Divya: It is in different machine, will share that later
+(12:28 PM) Kannan Ravi: ok. thanks
+(12:35 PM) Sabari: back
+(12:35 PM) Venkatesan Murugesan: back
+(12:35 PM) Sajid Surti: ack
+(12:35 PM) Nagaraj: back
+(12:35 PM) Sajid Surti: back
+(12:36 PM) Kannan Ravi: back
+(1:03 PM) Venkatesan Murugesan: ok
+(1:36 PM) Venkatesan Murugesan: thank you
